@@ -1,0 +1,5 @@
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\_05.Greeting_by_Name.exe
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\_05.Greeting_by_Name.pdb
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\05. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\_05.Greeting_by_Name.exe
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\_05.Greeting_by_Name.pdb

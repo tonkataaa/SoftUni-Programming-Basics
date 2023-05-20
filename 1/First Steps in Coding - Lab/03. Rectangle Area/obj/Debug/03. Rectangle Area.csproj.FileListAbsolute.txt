@@ -1,0 +1,6 @@
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\_03.Rectangle_Area.exe
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\_03.Rectangle_Area.pdb
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\03. Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\03. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\_03.Rectangle_Area.exe
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\_03.Rectangle_Area.pdb

@@ -1,0 +1,6 @@
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\_04.Inches_to_Centimeters.exe
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\_04.Inches_to_Centimeters.pdb
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\04. Inches to Centimeters.csproj.AssemblyReference.cache
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\_04.Inches_to_Centimeters.exe
+C:\Users\35988\source\repos\SoftUni\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\_04.Inches_to_Centimeters.pdb

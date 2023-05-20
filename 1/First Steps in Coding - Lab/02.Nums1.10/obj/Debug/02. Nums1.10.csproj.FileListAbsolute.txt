@@ -1,0 +1,6 @@
+C:\Users\35988\Desktop\SoftUni1\SoftUni\01. Programming Basics\01\First Steps in Coding - Lab\02.Nums1.10\bin\Debug\02.Nums1.10.exe
+C:\Users\35988\Desktop\SoftUni1\SoftUni\01. Programming Basics\01\First Steps in Coding - Lab\02.Nums1.10\bin\Debug\02.Nums1.10.pdb
+C:\Users\35988\Desktop\SoftUni1\SoftUni\01. Programming Basics\01\First Steps in Coding - Lab\02.Nums1.10\obj\Debug\02. Nums1.10.csproj.AssemblyReference.cache
+C:\Users\35988\Desktop\SoftUni1\SoftUni\01. Programming Basics\01\First Steps in Coding - Lab\02.Nums1.10\obj\Debug\02. Nums1.10.csproj.CoreCompileInputs.cache
+C:\Users\35988\Desktop\SoftUni1\SoftUni\01. Programming Basics\01\First Steps in Coding - Lab\02.Nums1.10\obj\Debug\02.Nums1.10.exe
+C:\Users\35988\Desktop\SoftUni1\SoftUni\01. Programming Basics\01\First Steps in Coding - Lab\02.Nums1.10\obj\Debug\02.Nums1.10.pdb
