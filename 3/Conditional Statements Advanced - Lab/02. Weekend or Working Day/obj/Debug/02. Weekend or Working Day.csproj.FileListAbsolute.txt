@@ -1,0 +1,6 @@
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\_02.Weekend_or_Working_Day.exe
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\_02.Weekend_or_Working_Day.pdb
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\02. Weekend or Working Day.csproj.AssemblyReference.cache
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\02. Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\_02.Weekend_or_Working_Day.exe
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\_02.Weekend_or_Working_Day.pdb

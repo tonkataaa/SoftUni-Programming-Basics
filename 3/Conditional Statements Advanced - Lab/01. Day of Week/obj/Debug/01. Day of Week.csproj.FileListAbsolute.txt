@@ -1,0 +1,6 @@
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.AssemblyReference.cache
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb

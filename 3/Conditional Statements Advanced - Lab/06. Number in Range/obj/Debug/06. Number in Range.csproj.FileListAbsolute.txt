@@ -1,0 +1,5 @@
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.exe
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.pdb
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\_06.Number_in_Range.exe
+C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\03\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\_06.Number_in_Range.pdb
