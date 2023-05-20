@@ -1,5 +1,0 @@
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\05. Character Sequence\bin\Debug\_05.Character_Sequence.exe
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\05. Character Sequence\bin\Debug\_05.Character_Sequence.pdb
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\05. Character Sequence\obj\Debug\05. Character Sequence.csproj.CoreCompileInputs.cache
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\05. Character Sequence\obj\Debug\_05.Character_Sequence.exe
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\05. Character Sequence\obj\Debug\_05.Character_Sequence.pdb

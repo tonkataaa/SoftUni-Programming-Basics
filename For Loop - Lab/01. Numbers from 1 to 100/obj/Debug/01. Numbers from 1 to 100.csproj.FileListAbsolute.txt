@@ -1,6 +1,0 @@
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.exe
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.pdb
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\01. Numbers from 1 to 100.csproj.AssemblyReference.cache
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\_01.Numbers_from_1_to_100.exe
-C:\Users\35988\Desktop\SoftUni\SoftUni\01. Programming Basics\04\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\_01.Numbers_from_1_to_100.pdb
